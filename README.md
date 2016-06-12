@@ -34,7 +34,7 @@ You can use the `learning-context/authenticate` route for authentication. Access
 You can access the client via `ServiceLocator` using its class name:
 
 ```php
-use use LearningContextClient\Client;
+use LearningContextClient\Client;
 $client = $container->get(Client::class);
 ```
 
