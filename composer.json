@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-				"ext-curl" : "*"
+				"xelax90/learning-context-client" : "*"
     },
 		"autoload" : {
 				"psr-0": {
