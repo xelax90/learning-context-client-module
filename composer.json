@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-				"xelax90/learning-context-client" : "*"
+				"xelax90/learning-context-client" : "*",
+				"zendframework/zendframework" : "*"
     },
 		"autoload" : {
 				"psr-0": {
